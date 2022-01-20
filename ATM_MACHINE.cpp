@@ -65,7 +65,7 @@ int main()
              cout << "Enter The line -> ";
 
              string s;
-
+             cin.ignore();
              cin >> s;
 
              if(s=="Please_Pardon_Me_Sorry"){
