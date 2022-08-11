@@ -1,5 +1,4 @@
 ## Welcome To Our ATM Services !!
-### Happy Banking !
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdiGvvKpRv6xCVe9FxnRvyLyzu-j1q59q2jA&usqp=CAU" />
 
 # Project Description
@@ -16,3 +15,4 @@ Until He/She Gets Validation Again.
 
 ### SMART CAPTCHA FOR SAFE TRANSACTIONS
 • For Any Financial Transaction the User Want to Do, He/She requires to fill the Randomly Generated Captcha at that time to ensure that the Transaction is done by a Present Minded Person.
+## Happy Banking !
